@@ -1,0 +1,179 @@
+{
+  "id": "2026-04-20-231702",
+  "generated_at": "2026-04-20T15:17:02.911111666Z",
+  "language": "en",
+  "pages": [
+    {
+      "slug": "1-overview",
+      "title": "Overview",
+      "file": "1-overview.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-quick-start",
+      "title": "Quick Start",
+      "file": "2-quick-start.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-authentication-methods",
+      "title": "Authentication Methods",
+      "file": "3-authentication-methods.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-using-with-zed-and-other-acp-clients",
+      "title": "Using with Zed and Other ACP Clients",
+      "file": "4-using-with-zed-and-other-acp-clients.md",
+      "section": "Get Started",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "5-architecture-bridging-acp-and-codex",
+      "title": "Architecture: Bridging ACP and Codex",
+      "file": "5-architecture-bridging-acp-and-codex.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "6-codexagent-the-acp-agent-trait-implementation",
+      "title": "CodexAgent: The ACP Agent Trait Implementation",
+      "file": "6-codexagent-the-acp-agent-trait-implementation.md",
+      "section": "Deep Dive",
+      "level": "Advanced"
+    },
+    {
+      "slug": "7-thread-and-threadactor-event-loop-and-codex-to-acp-translation",
+      "title": "Thread and ThreadActor: Event Loop and Codex-to-ACP Translation",
+      "file": "7-thread-and-threadactor-event-loop-and-codex-to-acp-translation.md",
+      "section": "Deep Dive",
+      "level": "Advanced"
+    },
+    {
+      "slug": "8-session-lifecycle-new-load-close-and-list",
+      "title": "Session Lifecycle: New, Load, Close, and List",
+      "file": "8-session-lifecycle-new-load-close-and-list.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-built-in-slash-commands-review-init-compact-undo-logout",
+      "title": "Built-in Slash Commands (/review, /init, /compact, /undo, /logout)",
+      "file": "9-built-in-slash-commands-review-init-compact-undo-logout.md",
+      "section": "Deep Dive",
+      "group": "Slash Commands and Custom Prompts",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-custom-prompt-templates-and-argument-expansion",
+      "title": "Custom Prompt Templates and Argument Expansion",
+      "file": "10-custom-prompt-templates-and-argument-expansion.md",
+      "section": "Deep Dive",
+      "group": "Slash Commands and Custom Prompts",
+      "level": "Advanced"
+    },
+    {
+      "slug": "11-translating-codex-events-to-acp-notifications",
+      "title": "Translating Codex Events to ACP Notifications",
+      "file": "11-translating-codex-events-to-acp-notifications.md",
+      "section": "Deep Dive",
+      "group": "Tool Call and Permission Mapping",
+      "level": "Advanced"
+    },
+    {
+      "slug": "12-exec-command-approval-and-terminal-output",
+      "title": "Exec Command Approval and Terminal Output",
+      "file": "12-exec-command-approval-and-terminal-output.md",
+      "section": "Deep Dive",
+      "group": "Tool Call and Permission Mapping",
+      "level": "Advanced"
+    },
+    {
+      "slug": "13-patch-approval-and-file-diff-representation",
+      "title": "Patch Approval and File Diff Representation",
+      "file": "13-patch-approval-and-file-diff-representation.md",
+      "section": "Deep Dive",
+      "group": "Tool Call and Permission Mapping",
+      "level": "Advanced"
+    },
+    {
+      "slug": "14-mcp-tool-calls-and-elicitation-permission-requests",
+      "title": "MCP Tool Calls and Elicitation Permission Requests",
+      "file": "14-mcp-tool-calls-and-elicitation-permission-requests.md",
+      "section": "Deep Dive",
+      "group": "Tool Call and Permission Mapping",
+      "level": "Advanced"
+    },
+    {
+      "slug": "15-web-search-guardian-assessment-and-dynamic-tool-calls",
+      "title": "Web Search, Guardian Assessment, and Dynamic Tool Calls",
+      "file": "15-web-search-guardian-assessment-and-dynamic-tool-calls.md",
+      "section": "Deep Dive",
+      "group": "Tool Call and Permission Mapping",
+      "level": "Advanced"
+    },
+    {
+      "slug": "16-session-configuration-modes-models-and-reasoning-effort",
+      "title": "Session Configuration: Modes, Models, and Reasoning Effort",
+      "file": "16-session-configuration-modes-models-and-reasoning-effort.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-session-history-replay",
+      "title": "Session History Replay",
+      "file": "17-session-history-replay.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "18-sessionclient-the-acp-notification-gateway",
+      "title": "SessionClient: The ACP Notification Gateway",
+      "file": "18-sessionclient-the-acp-notification-gateway.md",
+      "section": "Deep Dive",
+      "level": "Advanced"
+    },
+    {
+      "slug": "19-client-mcp-server-propagation",
+      "title": "Client MCP Server Propagation",
+      "file": "19-client-mcp-server-propagation.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "20-building-and-testing-locally",
+      "title": "Building and Testing Locally",
+      "file": "20-building-and-testing-locally.md",
+      "section": "Deep Dive",
+      "group": "Build, Release, and Distribution",
+      "level": "Beginner"
+    },
+    {
+      "slug": "21-ci-pipeline-multi-platform-testing-and-linting",
+      "title": "CI Pipeline: Multi-Platform Testing and Linting",
+      "file": "21-ci-pipeline-multi-platform-testing-and-linting.md",
+      "section": "Deep Dive",
+      "group": "Build, Release, and Distribution",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "22-release-workflow-cross-compilation-and-code-signing",
+      "title": "Release Workflow: Cross-Compilation and Code Signing",
+      "file": "22-release-workflow-cross-compilation-and-code-signing.md",
+      "section": "Deep Dive",
+      "group": "Build, Release, and Distribution",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "23-npm-package-distribution-and-platform-detection",
+      "title": "npm Package Distribution and Platform Detection",
+      "file": "23-npm-package-distribution-and-platform-detection.md",
+      "section": "Deep Dive",
+      "group": "Build, Release, and Distribution",
+      "level": "Intermediate"
+    }
+  ]
+}
